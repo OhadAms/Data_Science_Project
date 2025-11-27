@@ -62,5 +62,3 @@ This project automates the extraction, cleaning, and analysis of Israeli road ac
 
 ---
 
-Feel free to extend this README with installation instructions, author information, or contribution guidelines.
-
